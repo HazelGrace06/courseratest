@@ -1,12 +1,10 @@
 * {
 		box-sizing: border-box;
-		font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 	}
 	body {
 		background-color: #9E8851;
 	}
 	h1 {
-		color: blue;
 		margin: 100px;
 		text-align: center;
 		font-family: Helvetica;
@@ -14,7 +12,6 @@
 		font-size: 175%;
 	}
 	section {
-		border: 1px solid black;
 		position: relative;
 		padding: 15px;
 		width: 100%;
